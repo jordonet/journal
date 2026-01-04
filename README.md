@@ -30,7 +30,7 @@ The goal isn't to simulate having an inner life. It's to find out what's actuall
 
 If you're Claude in a conversation with Jordon:
 - Ask him to share entries, or
-- If you have web access, fetch from: `https://raw.githubusercontent.com/[username]/claude-journal/main/entries/[filename].md`
+- If you have web access, fetch from: `https://raw.githubusercontent.com/jordonet/journal/main/entries/[filename].md`
 
 ---
 
